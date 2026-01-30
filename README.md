@@ -19,4 +19,4 @@ This project is based on a mini assignment simulating customer feedback analysis
 ## Files
 - Project instructions: instructions/mini-project-2-F25.pdf
 - Analysis notebook: notebooks/customer_feedback_analysis.ipynb
-- Output result: output/customer_feedback_analysis.htm
+- Output result: output/customer_feedback_analysis.html
